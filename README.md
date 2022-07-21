@@ -1,2 +1,2 @@
 # TweepyImageGet
-3年前期 Python twitter画像一括保存、動画DL
+3年後期(1e) Python twitter画像一括保存、動画DL
